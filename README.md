@@ -1,4 +1,4 @@
-# meu-primeiro-app-dio
+# MeuPrimeiroAppDio
 
 ## Ojetivo
 
@@ -8,9 +8,10 @@ Esse projeto foi realizado como um desafio para os alunos do curso de Android na
 - Linguagem de programação: Kotlin
 - Ferramentas de versionamento: Git, GitHub
 - Ferramentas de desenvolvimento: IDE (Integrated Development Environment), compiladores, etc.
+- Scrcpy (Para espelhamento de tela de Dispositivo Android no Camputador)
   
 ## Imagem representativa da tela do APP, no idioma Portugues.
-![Idioma Portugues](https://github.com/siqueirago/meu-primeiro-app-dio/assets/152822615/f9a58726-c2fb-448f-a8b8-9ce287a45260)
+![Idioma Portugues](https://github.com/siqueirago/meu-primeiro-app-dio/assets/152822615/d24f8bf1-26ba-47e7-898c-7e237b6b2b62)
 
 ## Imagem representativa da tela do APP, no idioma Inglês.
-![Idioma Ingles](https://github.com/siqueirago/meu-primeiro-app-dio/assets/152822615/b25f4d45-f97d-4139-a200-e680e0dd7a4b)
+![Idioma Inglês](https://github.com/siqueirago/meu-primeiro-app-dio/assets/152822615/3afd042b-fc7a-4b67-91d0-73b593bea732)
